@@ -23,7 +23,7 @@ cask install google-chrome || true
 cask install hyperswitch || true
 cask install iterm2 || true
 cask install java || true
-cask install keyremap4macbook || true
+cask install karabiner || true
 cask install scroll-reverser || true
 cask install skitch || true
 cask install skype || true

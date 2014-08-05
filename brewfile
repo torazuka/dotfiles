@@ -8,6 +8,7 @@ install brew-cask
 install curl || true
 install git || true
 install jq || true
+install nkf || true
 install rbenv || true
 install ruby-build || true
 install tmux || true

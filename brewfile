@@ -17,6 +17,7 @@ install --disable-etcdir zsh || true
 # cask packages
 cask install alfred || true
 cask install appcleaner || true
+cask install eclipse-ide || true
 cask install evernote || true
 cask install clipmenu || true
 cask install cyberduck || true

@@ -13,6 +13,7 @@ install rbenv || true
 install ruby-build || true
 install tmux || true
 install wget || true
+install yajl || true
 install --disable-etcdir zsh || true
 # cask packages
 cask install alfred || true

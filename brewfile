@@ -8,7 +8,10 @@ install brew-cask
 install aws-cfn-tools || true
 install curl || true
 install git || true
+install git-flow || true
+install groovy || true
 install jq || true
+install mysql || true
 install nkf || true
 install rbenv || true
 install ruby-build || true

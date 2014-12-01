@@ -26,6 +26,7 @@ cask install eclipse-ide || true
 cask install evernote || true
 cask install clipmenu || true
 cask install cyberduck || true
+cask install firefox || true
 cask install google-chrome || true
 cask install hyperswitch || true
 cask install iterm2 || true

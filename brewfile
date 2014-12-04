@@ -42,4 +42,5 @@ cask install sublime-text || true
 cask install teamspeak-client || true
 cask install the-unarchiver || true
 cask install vagrant || true
+cask install virtualbox || true
 

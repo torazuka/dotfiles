@@ -9,6 +9,7 @@ install aws-cfn-tools || true
 install curl || true
 install git || true
 install git-flow || true
+install gradle || true
 install groovy || true
 install jq || true
 install mysql || true
@@ -34,6 +35,7 @@ cask install iterm2 || true
 cask install java || true
 cask install karabiner || true
 cask install node || true
+cask install packer || true
 cask install scroll-reverser || true
 cask install skitch || true
 cask install skype || true

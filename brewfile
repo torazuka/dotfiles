@@ -14,6 +14,7 @@ install groovy || true
 install jq || true
 install mysql || true
 install nkf || true
+install postgresql || true
 install pwgen || true
 install rbenv || true
 install ruby-build || true

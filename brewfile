@@ -11,6 +11,7 @@ install git || true
 install git-flow || true
 install gradle || true
 install groovy || true
+install http_load || true
 install jq || true
 install mysql || true
 install nkf || true

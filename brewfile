@@ -3,8 +3,10 @@ update || true
 tap caskroom/cask
 tap homebrew/versions
 tap homebrew/binary
+tap classmethod-aws/cm
 # packages
 install brew-cask
+install aurl || true
 install ansible || true
 install aws-cfn-tools || true
 install curl || true
